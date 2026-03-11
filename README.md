@@ -21,6 +21,7 @@
 - 🚀 Adept at building robust **CI/CD pipelines** using **GitHub Actions**.
 - 🐍 Passionate about building self-service internal tools with **Python** & Platform Engineering principles.
 - 🛡️ Focused on cloud security, least privilege (IRSA), and observability (Prometheus/Grafana).
+- 🌱 **Currently Learning:** AWS Certified Solutions Architect (SAA) & Certified Kubernetes Administrator (CKA).
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -66,7 +67,7 @@ A comprehensive migration project lifting a standard WordPress setup into a resi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nadavvv20&show_icons=true&theme=aurora" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadavvv20&layout=compact&theme=aurora" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nadavvv20&layout=compact&theme=aurora" height="180" alt="Top Languages" />
 </div>
 
 <br/>
