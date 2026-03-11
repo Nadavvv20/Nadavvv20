@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Nadav!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+</div>
 
-<!--
-**Nadavvv20/Nadavvv20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Architect;Platform+Engineer;Automation+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Passionate about building highly available, scalable, and secure cloud infrastructure. I bridge the gap between development and operations using modern Cloud Native technologies, Infrastructure as Code, and GitOps.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ About Me
+
+- ☁️ Extensive experience with **AWS Cloud Environments** & **Kubernetes (EKS)** orchestration.
+- 🏗️ Strong believer in **Infrastructure as Code (IaC)** using **Terraform** and **Helm**.
+- 🚀 Adept at building robust **CI/CD pipelines** using **GitHub Actions**.
+- 🐍 Passionate about building self-service internal tools with **Python** & Platform Engineering principles.
+- 🛡️ Focused on cloud security, least privilege (IRSA), and observability (Prometheus/Grafana).
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of my core projects that reflect my expertise in DevOps, Cloud Infrastructure, and Platform Engineering:
+
+### 1. [Status Page Infrastructure 🚀](https://github.com/Nadavvv20/status-page-infra)
+> **Modern Cloud Native Infrastructure as Code on AWS**
+
+A highly available, production-ready AWS environment for a Django Web App. 
+- **Stack:** `Terraform`, `AWS EKS`, `Helm`, `GitHub Actions` (GitOps), `RDS (PostgreSQL)`, `ElastiCache (Redis)`.
+- **Highlights:** Features a Multi-AZ deployment, Horizontal Pod Autoscaling (HPA), Cluster Autoscaler, secure secrets injection with External Secrets Operator, and least-privilege using OIDC and IRSA. Included full observability with Kube-Prometheus-Stack & Loki.
+
+### 2. [☁️ AWS Platform CLI (awsctl)](https://github.com/Nadavvv20/Python-AWS-CLI)
+> **Platform Engineering Self-Service Tool**
+
+A custom Python-based Command Line Interface (CLI) empowering developers to provision AWS resources securely and independently.
+- **Stack:** `Python`, `Boto3`, `Click`, `Rich`.
+- **Highlights:** Enforces platform engineering guardrails, abstracting AWS API complexities into simplistic commands for EC2, S3, and Route53. Includes automation via Jenkins for daily resource audits to ensure cost optimization, with alerts routed seamlessly to Telegram.
+
+### 3. [WordPress Deployment on Kubernetes 📦](https://github.com/Nadavvv20/Nadav-K8s-Project)
+> **From Docker-Compose to Kubernetes Orchestration**
+
+A comprehensive migration project lifting a standard WordPress setup into a resilient Kubernetes cluster environment.
+- **Stack:** `Kubernetes`, `Helm`, `AWS ECR`, `AWS Systems Manager Parameter Store`, `NGINX Ingress`.
+- **Highlights:** Engineered custom Helm charts to replace docker-compose. Configured an automated CI/CD flow connecting local docker clients, private AWS ECR registries, secure SSM Parameter DB secrets, and port-forwarding pipelines bridging external user access to Minikube.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nadavvv20&show_icons=true&theme=aurora" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadavvv20&layout=compact&theme=aurora" height="180" alt="Top Languages" />
+</div>
+
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
