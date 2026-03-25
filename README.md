@@ -66,8 +66,12 @@ A comprehensive migration project lifting a standard WordPress setup into a resi
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadavvv20&show_icons=true&theme=aurora" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nadavvv20&layout=compact&theme=aurora" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nadavvv20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nadavvv20&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadavvv20&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
 <br/>
